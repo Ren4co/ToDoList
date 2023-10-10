@@ -1,0 +1,12 @@
+/Users/rinatmuslimov/RiderProjects/ToDoList/ToDoList.Domain/bin/Debug/net7.0/ToDoList.Domain.deps.json
+/Users/rinatmuslimov/RiderProjects/ToDoList/ToDoList.Domain/bin/Debug/net7.0/ToDoList.Domain.dll
+/Users/rinatmuslimov/RiderProjects/ToDoList/ToDoList.Domain/bin/Debug/net7.0/ToDoList.Domain.pdb
+/Users/rinatmuslimov/RiderProjects/ToDoList/ToDoList.Domain/obj/Debug/net7.0/ToDoList.Domain.csproj.AssemblyReference.cache
+/Users/rinatmuslimov/RiderProjects/ToDoList/ToDoList.Domain/obj/Debug/net7.0/ToDoList.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rinatmuslimov/RiderProjects/ToDoList/ToDoList.Domain/obj/Debug/net7.0/ToDoList.Domain.AssemblyInfoInputs.cache
+/Users/rinatmuslimov/RiderProjects/ToDoList/ToDoList.Domain/obj/Debug/net7.0/ToDoList.Domain.AssemblyInfo.cs
+/Users/rinatmuslimov/RiderProjects/ToDoList/ToDoList.Domain/obj/Debug/net7.0/ToDoList.Domain.csproj.CoreCompileInputs.cache
+/Users/rinatmuslimov/RiderProjects/ToDoList/ToDoList.Domain/obj/Debug/net7.0/ToDoList.Domain.dll
+/Users/rinatmuslimov/RiderProjects/ToDoList/ToDoList.Domain/obj/Debug/net7.0/refint/ToDoList.Domain.dll
+/Users/rinatmuslimov/RiderProjects/ToDoList/ToDoList.Domain/obj/Debug/net7.0/ToDoList.Domain.pdb
+/Users/rinatmuslimov/RiderProjects/ToDoList/ToDoList.Domain/obj/Debug/net7.0/ref/ToDoList.Domain.dll

@@ -1,0 +1,15 @@
+/Users/rinatmuslimov/RiderProjects/ToDoList/ToDoList.DAL/bin/Debug/net7.0/ToDoList.DAL.deps.json
+/Users/rinatmuslimov/RiderProjects/ToDoList/ToDoList.DAL/bin/Debug/net7.0/ToDoList.DAL.dll
+/Users/rinatmuslimov/RiderProjects/ToDoList/ToDoList.DAL/bin/Debug/net7.0/ToDoList.DAL.pdb
+/Users/rinatmuslimov/RiderProjects/ToDoList/ToDoList.DAL/bin/Debug/net7.0/ToDoList.Domain.dll
+/Users/rinatmuslimov/RiderProjects/ToDoList/ToDoList.DAL/bin/Debug/net7.0/ToDoList.Domain.pdb
+/Users/rinatmuslimov/RiderProjects/ToDoList/ToDoList.DAL/obj/Debug/net7.0/ToDoList.DAL.csproj.AssemblyReference.cache
+/Users/rinatmuslimov/RiderProjects/ToDoList/ToDoList.DAL/obj/Debug/net7.0/ToDoList.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rinatmuslimov/RiderProjects/ToDoList/ToDoList.DAL/obj/Debug/net7.0/ToDoList.DAL.AssemblyInfoInputs.cache
+/Users/rinatmuslimov/RiderProjects/ToDoList/ToDoList.DAL/obj/Debug/net7.0/ToDoList.DAL.AssemblyInfo.cs
+/Users/rinatmuslimov/RiderProjects/ToDoList/ToDoList.DAL/obj/Debug/net7.0/ToDoList.DAL.csproj.CoreCompileInputs.cache
+/Users/rinatmuslimov/RiderProjects/ToDoList/ToDoList.DAL/obj/Debug/net7.0/ToDoList.DAL.csproj.CopyComplete
+/Users/rinatmuslimov/RiderProjects/ToDoList/ToDoList.DAL/obj/Debug/net7.0/ToDoList.DAL.dll
+/Users/rinatmuslimov/RiderProjects/ToDoList/ToDoList.DAL/obj/Debug/net7.0/refint/ToDoList.DAL.dll
+/Users/rinatmuslimov/RiderProjects/ToDoList/ToDoList.DAL/obj/Debug/net7.0/ToDoList.DAL.pdb
+/Users/rinatmuslimov/RiderProjects/ToDoList/ToDoList.DAL/obj/Debug/net7.0/ref/ToDoList.DAL.dll
