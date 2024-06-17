@@ -9,4 +9,7 @@ public interface IBaseRepository<T>
     Task Delete(T entity);
 
     Task<T> Update(T entity);
+
+    //eqweqwe
+    //fsdfsdf
 }
