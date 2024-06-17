@@ -9,6 +9,5 @@ public interface IBaseRepository<T>
     Task Delete(T entity);
 
     Task<T> Update(T entity);
-    //123456
-    //3333323
+    //fsdfsdfaaa
 }
